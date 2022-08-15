@@ -1,0 +1,23 @@
+@layer utilities {
+  .text-xs {
+    @apply font-['Open_Sans'] text-[16px] leading-[28px];
+  }
+  .text-s {
+    @apply font-['Open_Sans'] text-[20px] leading-[32px];
+  }
+  .text-m {
+    @apply font-['Open_Sans'] text-[24px] leading-[36px];
+  }
+  .text-xl {
+    @apply font-['Manrope'] text-[36px] leading-[56px];
+  }
+  .text-l {
+    @apply font-['Manrope'] text-[24px] leading-[48px];
+  }
+  .text-xxl {
+    @apply font-['Manrope'] text-[48px] leading-[72px];
+  }
+  .text-xxxl {
+    @apply font-['Manrope'] text-[64px] leading-[84px];
+  }
+}
