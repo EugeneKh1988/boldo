@@ -1,5 +1,5 @@
 @layer utilities {
-  .text-xs {
+  .text-x-s {
     @apply font-['Open_Sans'] text-[16px] leading-[28px];
   }
   .text-s {
